@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/joe-ngu/ragmail"><img src="https://raw.githubusercontent.com/joe-ngu/ragmail/main/assets/logo.png" alt="Ragmail" width="200"></a>
+  <a href="https://github.com/joe-ngu/ragmail"><img src="https://raw.githubusercontent.com/joe-ngu/ragmail/main/assets/ragmail_logo.jpeg" alt="Ragmail" width="200"></a>
   <br>
   Ragmail
   <br>
