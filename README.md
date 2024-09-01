@@ -16,12 +16,10 @@
     <img src="https://img.shields.io/badge/langchain-%230D1C49.svg?style=for-the-badge&logo=langchain&logoColor=white" alt="Langchain"/>
   </a>
   <a href="https://www.trychroma.com/">
-      <img src="https://img.shields.io/badge/chromadb-%2381D4FA.svg?style=for-the-badge&logo=&logoColor=white
-" alt="ChromaDB"/>
+      <img src="https://img.shields.io/badge/chromadb-%2381D4FA.svg?style=for-the-badge&logo=&logoColor=white" alt="ChromaDB"/>
   </a>
   <a href="https://llama.meta.com/">
-    <img src="https://img.shields.io/badge/Llama%203-%231877F2.svg?style=for-the-badge
-" alt="Llama 3"/>
+    <img src="https://img.shields.io/badge/Llama%203-%231877F2.svg?style=for-the-badge" alt="Llama 3"/>
   </a>
   <a href="https://developers.google.com/gmail/api/guides">
     <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
