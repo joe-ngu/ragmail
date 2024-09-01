@@ -1,0 +1,17 @@
+langchain
+langchain_community
+langgraph
+tavily-python
+
+chromadb
+gpt4all
+unstructured
+unstructured[docx,pdf,ppt,pptx,md]
+
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+lxml
+bs4
+
+python-dotenv

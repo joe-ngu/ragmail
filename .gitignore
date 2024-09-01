@@ -1,0 +1,18 @@
+# python optimization files
+__pycache__/
+
+# environments
+.env
+.venv
+env/
+venv/
+
+# gmail credentials
+credentials.json
+token.json
+
+# vector database
+.chromadb/
+
+# log files
+*.log
